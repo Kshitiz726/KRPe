@@ -3,7 +3,7 @@ console.log('Peep Peep!');
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('NzgyMjM2OTIwNzMzNjMwNTI4.X8JQ5w.22qzyComOWOf_GAJyo53BbDwZfQ');
+client.login(process.env.token);
 
 client.on('ready', readyDiscord);
 
