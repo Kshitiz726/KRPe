@@ -25,6 +25,6 @@
     "request": "^2.88.2",
     "spotify-uri": "^2.1.0",
     "youtube-sr": "^2.0.4",
-    "ytdl-core": "^4.1.0"
+    "ytdl-core": "^4.1.1"
   }
 }
